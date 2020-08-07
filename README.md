@@ -29,7 +29,7 @@ division, else they will be in the open division.
 # Data
 
 *  Training data are [here](train_data/).  These data include [the labels](train_data/severity_score_train.txt) that you need to predict
-*  Test data are here.  Your predictions should be in the order of the `subject_id`s [listed here](prediction/prediction.csv) -- no join is performed on the `subject_id` column.
+*  Test data are [here](test_data/).  Your predictions should be in the order of the `subject_id`s [listed here](prediction/prediction.csv) -- no join is performed on the `subject_id` column.
 
 # Prizes
 1.  First place in each division: $300 + $50*(team size)
