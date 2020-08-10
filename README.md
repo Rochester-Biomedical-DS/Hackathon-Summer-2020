@@ -25,6 +25,7 @@ division, else they will be in the open division.
     We  cannot provide support
     beyond the diagnostic output included on the scoreboard if an error is
     encountered in scoring your predictions.
+4.  Competition runs through 11:59 PM EDT 12-August-2020.  The predictions each team has committed to their repository at that time will be used to determine their final score.
 
 # Data
 
