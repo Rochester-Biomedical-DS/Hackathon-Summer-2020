@@ -44,4 +44,6 @@ These data are from a prospective multi-year clinical translational study includ
 1.  Predictions will be scored based on mean square error, lower
 values are better.
 
-[**Scoreboard**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2020/Leaderboard.html)
+[**Final Scoreboard**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2020/Leaderboard.html)
+
+[**Per request, a bonus round of scoring (doesn't count for final results)**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2020/Leaderboard-bonus.html)
