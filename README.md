@@ -47,3 +47,19 @@ values are better.
 [**Final Scoreboard**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2020/Leaderboard.html)
 
 [**Per request, a bonus round of scoring (doesn't count for final results)**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2020/Leaderboard-bonus.html)
+
+# Concluding remarks
+Thank you to all who participated in the first GIDS biomedical data science hackathon! 
+**If you participated, we would appreciate your [feedback](https://forms.gle/hmcURb3P3zh1CprPA).**
+
+## Winning teams open division
+* 1st - Data Wizard - Zhijie Ji, Hanjia Lyv, Yizhi Lan, Trang Nguyen
+* 2nd - Supergene - Sherif Negm, Xiaolu Wei, Lucas Hemmer, John Sproul
+
+## Winning teams undergrad division
+* 1st- Random Guess -Khoa Hoang, Ha Nguyen, Tuan Pham
+* 2nd- Pineapple - Xiaobo Luo, Chuqin Wu
+
+**Congratulations to the winners and all of the teams that participated and beat random guessing.**
+
+Please e-mail the organizers if your team submitted predictions and you would like a certificate of participation.
